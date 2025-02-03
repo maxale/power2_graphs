@@ -1,4 +1,4 @@
-'''
+r'''
 Collection of graphs produced in the study:
 
 M. A. Alekseyev. "On computing sets of integers with maximum number of pairs summing to powers of 2".
